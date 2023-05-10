@@ -7,7 +7,6 @@ display = Display(visible=0, size=(1920, 1080)).start()
 import numpy as np
 import argparse
 import glob
-import os
 from functools import partial
 import vispy
 import scipy.misc as misc
